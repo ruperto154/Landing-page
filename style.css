@@ -1,7 +1,21 @@
-.header {
-    background-color: #1F2937;
-    font-size: 48px;
-    font-weight: 48px;
-    color: #F9FAF8;
+body {
+    margin: 0;
     padding: 0;
+}
+
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 10px;
+}
+
+.links {
+    margin-left: auto;
+}
+
+ul {
+    list-style: none;
 }
